@@ -1,1 +1,1 @@
-alert('funcionou!!!')
+alert('funcionou')
